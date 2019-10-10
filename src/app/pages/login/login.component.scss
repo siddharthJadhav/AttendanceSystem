@@ -10,3 +10,9 @@ form {
 .btn-primary:disabled {
     cursor: not-allowed;
 }
+
+.error-message {
+    color: #ff0000a1;
+    font-size: 14px;
+    padding: 4px 0 0 5px;
+}

@@ -1,5 +1,5 @@
-.login-form-row {
-    margin-top: 200px;
+.container-fluid {
+    background-color: #80808021;
 }
 
 form {
@@ -8,6 +8,7 @@ form {
 
 .login-form {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
 }
 
 .btn-primary:disabled {

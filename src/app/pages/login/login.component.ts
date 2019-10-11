@@ -12,6 +12,7 @@ export class LoginComponent implements OnInit {
   user: LoginObject = {
     emial: null,
     pass: null,
+    remember: false
   };
 
   constructor(

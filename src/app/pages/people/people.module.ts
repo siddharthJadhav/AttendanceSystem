@@ -4,7 +4,7 @@ import { PeopleListComponent } from './people-list/people-list.component';
 
 const routes: Routes = [
   {
-    path: 'people',
+    path: '',
     children: [
       {
         path: '',
@@ -16,7 +16,7 @@ const routes: Routes = [
       }
     ]
   }
-]
+];
 
 @NgModule({
   declarations: [
